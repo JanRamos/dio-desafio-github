@@ -1,0 +1,52 @@
+Mini tutorial para Git/Github
+
+
+CASO FOR USAR O GIT BASH
+
+Abrir git bash em modo administrador 
+
+
+git clone https://github.com/JanRamos/Avaliacao-APOO.git ->>> fazer caso não tenha o repositório ainda 
+
+cd Avaliacao-APOO/   
+
+git pull  -> atualiza o computador com as novidades do repositório
+
+git push -> para baixar os arquivos no repositório
+
+git status -> verifica se tem algum arquivo na pasta que não subiu no repositorio (se estiver em vermerlho, so esta no pc e não subiu para o repositorio)
+
+git add * -> sobe os arquivos para o repositório, porém não os salva ainda
+
+git status -> ficou verde, subiu os arquivos para o repositório
+
+git commit -m "corresponde à tarefa # "     ->>>> ATENÇÃO - Informar o número da tarefa após o "#" (essa função finaliza o upload dos arquivos)
+
+git push  -> atentar para os arquivos no seu computador local, pois ao utilizar essa função, ele será atualizado para o que está no repositório
+
+git pull
+
+
+ou 
+
+CASO FOR USAR APENAS O CMD (abrir em modo administrador), SEGUIR OS PASSO ADIANTE
+
+git clone https://github.com/JanRamos/Avaliacao-APOO.git ->>> fazer caso não tenha o repositório ainda 
+
+cd C:\Users\Jan Ramos\Avaliacao-APOO     -> Atenção ao local de armazenamento do seu computador
+
+git pull  -> atualiza o computador com as novidades do repositório
+
+git push -> para baixar os arquivos no repositório
+
+git status -> verifica se tem algum arquivo na pasta que não subiu no repositorio (se estiver em vermerlho, so esta no pc e não subiu para o repositorio)
+
+git add * -> sobe os arquivos para o repositório, porém não os salva ainda
+
+git status -> ficou verde, subiu os arquivos para o repositório
+
+git commit -m "corresponde à tarefa # "     ->>>> ATENÇÃO - Informar o número da tarefa após o "#" (essa função finaliza o upload dos arquivos)
+
+git push  -> atentar para os arquivos no seu computador local, pois ao utilizar essa função, ele será atualizado para o que está no repositório
+
+git pull  
